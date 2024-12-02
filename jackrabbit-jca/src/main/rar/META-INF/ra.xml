@@ -15,11 +15,10 @@
    See the License for the specific language governing permissions and
    limitations under the License.
   -->
-<connector xmlns="http://java.sun.com/xml/ns/j2ee"
+<connector xmlns="https://jakarta.ee/xml/ns/jakartaee"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee
-                               http://java.sun.com/xml/ns/j2ee/connector_1_5.xsd"
-           version="1.5">
+           xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee/connector_2_1.xsd"
+           version="2.1">
 
   <display-name>Apache Jackrabbit JCR Adapter</display-name>
   <vendor-name>The Apache Software Foundation</vendor-name>
